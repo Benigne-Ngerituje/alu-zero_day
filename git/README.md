@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 My second commit
 =======
 new Readme
